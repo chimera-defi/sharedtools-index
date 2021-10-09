@@ -1,11 +1,11 @@
 # sharedtools-index
 Sharedtools repo and contract index for ETHOnline2021
 
-Overview: 
-![architecture overview]("https://docs.google.com/drawings/d/e/2PACX-1vSMjh0Bq1_ZzI-yoaLpbgnLKl6k5F_I1jxHhxb6S2onzj_pXh1ZSuod_moq5jAKzrLWDr0kLMq0lChE/pub?w=1235&h=760")
+## Overview: 
+![architecture overview](https://docs.google.com/drawings/d/e/2PACX-1vSMjh0Bq1_ZzI-yoaLpbgnLKl6k5F_I1jxHhxb6S2onzj_pXh1ZSuod_moq5jAKzrLWDr0kLMq0lChE/pub?w=1235&h=760)
 
-Factories live on metis, matic, rinkeby, mainnet. Will show up on switch to that chain
-UIs:
+## Factories live on metis, matic, rinkeby, mainnet. Will show up on switch to that chain
+## UIs:
 - Factory UIs
 - https://factory.sharedtools.org
 - https://github.com/chimera-defi/factory-ui
@@ -15,13 +15,13 @@ UIs:
 - https://github.com/chimera-defi/veToken-voting
 
 
-Writings:
+## Writings:
 - Article / mission statement:
 - https://medium.com/@chimera_defi/sharedtools-c2fe8e49ba9b
 - Presentation:
 - https://docs.google.com/presentation/d/1R50pb8qXqrkST98XKYz-epb4Wqyj-Y9zFB5Gw-BQwDo/edit#slide=id.gf596c35fb7_4_12
 
-Dev tools:
+## Dev tools:
 - Hardhat-template
 - https://github.com/chimera-defi/hardhat-template
 - hardhat-framework
@@ -29,7 +29,7 @@ Dev tools:
 - smartcontract-UI
 - https://github.com/chimera-defi/smartcontract-UI
 
-Contracts:
+## Contracts:
 - Factory contracts
 - https://github.com/chimera-defi/sharedtools-factory
 - merkle-distributor-generic
