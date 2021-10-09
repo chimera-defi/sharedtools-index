@@ -2,7 +2,7 @@
 Sharedtools repo and contract index for ETHOnline2021
 
 ## Overview: 
-![architecture overview](https://docs.google.com/drawings/d/e/2PACX-1vSMjh0Bq1_ZzI-yoaLpbgnLKl6k5F_I1jxHhxb6S2onzj_pXh1ZSuod_moq5jAKzrLWDr0kLMq0lChE/pub?w=1235&h=760)
+![architecture overview](https://docs.google.com/drawings/d/e/2PACX-1vSdmv2G1qHZKdaX3aobWG1crxlhS0BHgCoHMGzadL34rxXuKOmDactqgXzU6djn1VqGG172aoD6-d8k/pub?w=1235&h=760)
 
 ## Factories live on metis, matic, rinkeby, mainnet. Will show up on switch to that chain
 ## UIs:
