@@ -50,13 +50,23 @@ https://github.com/chimera-defi/openzeppelin-contracts-ovm
 - Openzeppelin fork for OVM  
 - Dev tooling to ease cross chain deploys at hardhat-template & hardhat-framework
 
-## Yearn
-- Weth vault strategy
-https://github.com/chimera-defi/sharedstake-strategies/blob/master/contracts/vETH2CRVStrategy.sol
-
 ## Rarible
 - UI for Rarible ERCs live on rinkeby, mainnet
 - MintableNFTSalesFactory for deploying custom NFTs e.g. for post-sale reveals of varied rarity NFTs, establishing minting caps and deadlines etc
   e.g. Src for ERC20 supporting MintableNFTSales https://github.com/chimera-defi/sharedtools-factory/blob/master/contracts/MintableNFTSaleERC20.sol
 - NFT Merkle distributor for large audience NFT airdrops
   https://github.com/chimera-defi/merkle-distributor-generic/blob/master/contracts/ERC721MerkleDistributor.sol
+  
+## Uni
+- UNI v3 position NFT to ERC20 mapper
+- Allow using UNI v3 positions with old school masterchef/snx staking rewards contracts
+- WIP - done as an attempt to dogfood dev tools
+- SRC: https://github.com/chimera-defi/UniV3NFTERC20Mapper
+- Deploy Rinkeby https://rinkeby.etherscan.io/address/0x706B8856e0e081c29e3Ba5c8bAA7D72D8E1d7CcC 
+- Old deploy rinkeby with some manual testing https://rinkeby.etherscan.io/address/0x07f2a0cec0d3e15ef607cf7ac309057d38fad7a5#writeContract
+- Also "improved" uni merkle distributors to support NFTs and ERC20 clawbacks and merkle root resets at https://github.com/chimera-defi/merkle-distributor-generic
+
+
+## Yearn
+- Weth vault strategy - wip - unsure of best way to proceed ala new vault or reuse old vault
+https://github.com/chimera-defi/sharedstake-strategies/blob/master/contracts/vETH2CRVStrategy.sol
