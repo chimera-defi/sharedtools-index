@@ -46,7 +46,7 @@ https://github.com/chimera-defi/openzeppelin-contracts-ovm
 - Src: https://github.com/chimera-defi/factory-ui/commit/72978f4f8b42d8ec996740ae1f6c419c496b5fb8
 
 ## Metis
-- Factories on metis for NFTs, Clones, VoteEscrow   https://github.com/chimera-defi/factory-ui/blob/master/utils/factories_metis.json
+- Factories & addresses on metis for NFTs, Clones, VoteEscrow   https://github.com/chimera-defi/factory-ui/blob/master/utils/factories_metis.json
 - Openzeppelin fork for OVM  
 - Dev tooling to ease cross chain deploys at hardhat-template & hardhat-framework
 
