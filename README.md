@@ -1,5 +1,8 @@
 # sharedtools-index
-Sharedtools repo and contract index for ETHOnline2021
+Sharedtools repo and contract index started at ETHOnline2021.  
+
+This ecosystem has many projects so please look around. Individual projects have their own issues.  
+The sharedtools-factory contracts are a good place to start for solidity devs.  
 
 ## Overview: 
 ![architecture overview](https://docs.google.com/drawings/d/e/2PACX-1vSdmv2G1qHZKdaX3aobWG1crxlhS0BHgCoHMGzadL34rxXuKOmDactqgXzU6djn1VqGG172aoD6-d8k/pub?w=1235&h=760)
